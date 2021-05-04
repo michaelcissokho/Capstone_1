@@ -1,1 +1,1 @@
-web: gunicorn Capstone_Michael_Cissokho.app:app
+web: gunicorn src.app:app
